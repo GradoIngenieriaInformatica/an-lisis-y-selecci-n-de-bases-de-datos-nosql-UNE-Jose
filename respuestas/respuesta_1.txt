@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Grafo | Fuerte uso de relaciones entre productos, usuarios y patrones de compra, de alta complejidad
