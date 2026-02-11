@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Clave-valor | Gestion de datos simples de manera en la cual se tenga una latencia extremadamente baja
