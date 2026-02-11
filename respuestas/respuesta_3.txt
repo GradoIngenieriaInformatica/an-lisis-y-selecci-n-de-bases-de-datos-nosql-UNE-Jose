@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Columnar | Debido a similitud de datos y a una facil estructurarizacion que permita un volumen alto y cronologico
